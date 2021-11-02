@@ -1,4 +1,4 @@
-# Saejong_precipitation_dataset/
+Saejong_precipitation_dataset/
 ├── geometry/
 │   ├── input-cheonlian-2A/
 │   └── output-seomjingang/
@@ -10,6 +10,8 @@
     ├── input_cheonlian-2A/
     ├── input_nasa_gpm/
     └── train_output_seomjingang.csv
+![Screen Shot 2021-11-02 at 5 20 02 PM](https://user-images.githubusercontent.com/72109397/139810501-fb73548b-f38a-4cdb-b71f-285ec7b4d348.png)
+
 0. 전체 데이터 개요
 전체 데이터에는 UTC +09:00:00 기준(한국 시간) 2020년 1월 1일 01시 부터 2021년 7월 31일 24시 이전까지의 1시간 단위 혹은 30분 단위의 관측 데이터가 포함됩니다.
 
