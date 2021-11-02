@@ -1,15 +1,4 @@
-Saejong_precipitation_dataset/
-├── geometry/
-│   ├── input-cheonlian-2A/
-│   └── output-seomjingang/
-├── test/
-│   ├── input_cheonlian-2A/
-│   ├── input_nasa_gpm/
-│   └── sample_output_seomjingang.csv
-└── train/
-    ├── input_cheonlian-2A/
-    ├── input_nasa_gpm/
-    └── train_output_seomjingang.csv
+
 ![Screen Shot 2021-11-02 at 5 20 02 PM](https://user-images.githubusercontent.com/72109397/139810501-fb73548b-f38a-4cdb-b71f-285ec7b4d348.png)
 
 0. 전체 데이터 개요
